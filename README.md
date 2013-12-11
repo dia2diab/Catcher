@@ -1,9 +1,12 @@
 # Catcher#
 ---
-security tool like Regshot tool over windows platform allows you to quickly take a snapshot
-of your registry and then compare it with a second one - done after doing system changes or
-installing a new software product or run a malware. it's usefull for system admins to catch 
-shells on hacked web sites.
+security tool like Regshot over windows platform, allows you to quickly take a snapshot
+of your registry and then compare it with a second one.
+
+# Usefull in #
+---
+- catch shells in hacked web sites. (System Admins)
+- catch changes after running or installing software product. (Malware Researchers)
 
 # Example #
 ---
